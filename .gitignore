@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.venv/
+venv/
+.env
+
+# Test/cache
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Generated model and downloaded/cache data
+artifacts/
+scikit_learn_data/
+
+# Editors and OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
